@@ -1,6 +1,6 @@
 **Skillora — Onboarding UI Design****
 
-****Project Overview**
+**Project Overview**
 
 Skillora is a fictional learning application designed to help users discover new skills, learn from industry experts, and track their learning progress.
 
@@ -47,6 +47,10 @@ Introduces learning progress tracking, weekly goals, and achievements.
 
 Pynexia UI/UX Design Internship — Week 1.
 
-Project Type
+**Project Type**
 
 Onboarding UI Design
+
+## Figma Design and Prototype
+
+[View Skillora Design in Figma](https://www.figma.com/design/7PiifykQW6NDcYfZvxiSav/Pynexia---UIUX---Onboarding-UI-Design?node-id=0-1&t=PGF7Ok82liCEtIEK-1)
